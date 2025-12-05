@@ -160,8 +160,11 @@ For Windows, if PyAudio fails to install, download the appropriate .whl file fro
 
 Ensure paths to applications (e.g., VS Code) are correctly set in the code.
 
+#OpenSource, #GitHub , #MachineLearning , #python #ai #voice assistant
+
 Selenium YouTube automation requires Google Chrome installed.
 
 License
+
 
 This project is open-source and free to use under the MIT License
